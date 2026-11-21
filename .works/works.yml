@@ -1,18 +1,22 @@
-company_name: "Awesome Notification Infrastructure"
+company_name: Awesome Notification Infrastructure
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Notification Infrastructure"
-initial_prompt: "A curated directory of push and multi-channel notification APIs, in-app inboxes and self-hosted push servers. Include products such as Novu, Knock, Courier, SuprSend, OneSignal, Firebase Cloud Messaging, Pusher Beams, MagicBell, Engagespot, ntfy, Gotify, Apprise, plus other notable commercial and open-source options. Categories: Notification APIs, Push Notification Services, In-App Inbox & Feeds, Open-Source Notification Platforms, Self-Hosted Push, Web Push. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-notification-infrastructure-website"
-company_website: "https://notifications.ever.works"
+name: Awesome Notification Infrastructure
+initial_prompt: "A curated directory of push and multi-channel notification
+  APIs, in-app inboxes and self-hosted push servers. Include products such as
+  Novu, Knock, Courier, SuprSend, OneSignal, Firebase Cloud Messaging, Pusher
+  Beams, MagicBell, Engagespot, ntfy, Gotify, Apprise, plus other notable
+  commercial and open-source options. Categories: Notification APIs, Push
+  Notification Services, In-App Inbox & Feeds, Open-Source Notification
+  Platforms, Self-Hosted Push, Web Push. For every item capture the official
+  website, a short factual description, pricing model (free, freemium, paid,
+  open source), deployment (cloud or self-hosted), key features and
+  integrations."
+website_repo: ever-works/awesome-notification-infrastructure-website
+company_website: https://notifications.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +33,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
