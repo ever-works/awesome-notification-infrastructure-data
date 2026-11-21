@@ -1,0 +1,13 @@
+name: "Firebase Cloud Messaging"
+description: "Google's cross-platform messaging solution for sending notifications and data messages to Android, iOS, and web applications. Part of Firebase; no separate charge for FCM usage beyond standard Firebase plans."
+source_url: "https://firebase.google.com/products/cloud-messaging"
+category: "Push Notification Services"
+tags:
+  - "free"
+  - "api"
+  - "mobile-push"
+  - "web-push"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/firebase.google.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://firebase.google.com/products/cloud-messaging>\n"
+updated_at: "2026-11-21 01:45"

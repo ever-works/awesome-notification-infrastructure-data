@@ -1,0 +1,12 @@
+name: "Knock"
+description: "Developer-first notification API for building multi-channel product notifications with workflows, preferences, and batching. Offers a free tier and paid plans based on monthly message volume."
+source_url: "https://knock.app/"
+category: "Notification APIs"
+tags:
+  - "api"
+  - "freemium"
+  - "free-plan"
+  - "multi-channel"
+icon_url: "https://icons.duckduckgo.com/ip3/knock.app.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://knock.app/>\n"
+updated_at: "2026-11-21 01:45"

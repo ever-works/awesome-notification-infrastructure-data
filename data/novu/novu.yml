@@ -1,0 +1,13 @@
+name: "Novu"
+description: "Open-source notification infrastructure for embedding in-app, email, SMS, and push notifications into products. Provides a self-hosted edition and a managed cloud platform with workflows and a free tier."
+source_url: "https://novu.co/"
+category: "Open-Source Notification Platforms"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "api"
+  - "in-app-inbox"
+icon_url: "https://icons.duckduckgo.com/ip3/novu.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://novu.co/>\n- Repository: <https://github.com/novuhq/novu>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:45"

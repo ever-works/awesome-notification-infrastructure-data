@@ -1,0 +1,13 @@
+name: "LogSnag"
+description: "Event tracking and notification platform for developers to send real-time alerts and logs to Slack, Discord, email, and mobile. Offers a free tier and paid plans for higher event volumes."
+source_url: "https://logsnag.com/"
+category: "Notification APIs"
+tags:
+  - "api"
+  - "freemium"
+  - "free-plan"
+  - "event-tracking"
+  - "logging"
+icon_url: "https://icons.duckduckgo.com/ip3/logsnag.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://logsnag.com/>\n"
+updated_at: "2026-11-21 01:45"

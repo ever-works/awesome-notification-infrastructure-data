@@ -1,0 +1,11 @@
+name: "SuprSend"
+description: "API-first notification infrastructure for product teams to manage transactional and marketing messages across channels. Includes templates, user preferences, and delivery tracking with a free tier."
+source_url: "https://suprsend.com/"
+category: "Notification APIs"
+tags:
+  - "api"
+  - "freemium"
+  - "multi-channel"
+icon_url: "https://icons.duckduckgo.com/ip3/suprsend.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://suprsend.com/>\n"
+updated_at: "2026-11-21 01:45"

@@ -1,0 +1,12 @@
+name: "Pushover"
+description: "Simple push notification service for sending alerts to iOS, Android, and desktop devices via REST API. Requires a one-time license fee per platform with no monthly subscription."
+source_url: "https://pushover.net/"
+category: "Push Notification Services"
+tags:
+  - "api"
+  - "paid"
+  - "mobile-push"
+  - "desktop"
+icon_url: "https://icons.duckduckgo.com/ip3/pushover.net.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://pushover.net/>\n"
+updated_at: "2026-11-21 01:45"

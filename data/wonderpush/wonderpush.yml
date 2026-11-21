@@ -1,0 +1,13 @@
+name: "WonderPush"
+description: "Web push and mobile push notification service focused on e-commerce and media websites. Offers segmentation, automation, and a free tier for small websites."
+source_url: "https://wonderpush.com/"
+category: "Web Push"
+tags:
+  - "api"
+  - "freemium"
+  - "free-plan"
+  - "web-push"
+  - "mobile-push"
+icon_url: "https://icons.duckduckgo.com/ip3/wonderpush.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://wonderpush.com/>\n"
+updated_at: "2026-11-21 01:45"

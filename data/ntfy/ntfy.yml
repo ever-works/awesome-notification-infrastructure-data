@@ -1,0 +1,13 @@
+name: "ntfy"
+description: "HTTP-based publish-subscribe notification service that allows self-hosted push notifications to desktop and mobile clients. Provides a simple REST API and official mobile apps for receiving messages."
+source_url: "https://ntfy.sh/"
+category: "Self-Hosted Push"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "web-push"
+  - "http"
+icon_url: "https://icons.duckduckgo.com/ip3/ntfy.sh.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ntfy.sh/>\n- Repository: <https://github.com/binwiederhier/ntfy>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:45"

@@ -1,0 +1,12 @@
+name: "Gotify"
+description: "Self-hosted server for sending and receiving push notifications via a REST API and web interface. Supports Android and iOS clients with token-based authentication and a web dashboard."
+source_url: "https://gotify.net/"
+category: "Self-Hosted Push"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "mobile-push"
+icon_url: "https://icons.duckduckgo.com/ip3/gotify.net.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://gotify.net/>\n- Repository: <https://github.com/gotify/server>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:45"

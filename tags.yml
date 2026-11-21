@@ -1,0 +1,46 @@
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: in-app-inbox
+  name: "In-App Inbox"
+- id: free-plan
+  name: "Free Plan"
+- id: multi-channel
+  name: "Multi-Channel"
+- id: enterprise
+  name: "Enterprise"
+- id: mobile-push
+  name: "Mobile Push"
+- id: web-push
+  name: "Web Push"
+- id: free
+  name: "Free"
+- id: cloud
+  name: "Cloud"
+- id: saas
+  name: "SaaS"
+- id: http
+  name: "HTTP"
+- id: python
+  name: "Python"
+- id: paid
+  name: "Paid"
+- id: customer-engagement
+  name: "Customer Engagement"
+- id: pub-sub
+  name: "Pub/Sub"
+- id: desktop
+  name: "Desktop"
+- id: go
+  name: "Go"
+- id: monitoring
+  name: "Monitoring"
+- id: event-tracking
+  name: "Event Tracking"
+- id: logging
+  name: "Logging"

@@ -1,0 +1,13 @@
+name: "OneSignal"
+description: "Customer engagement platform specializing in mobile and web push notifications, in-app messages, and email. Offers a generous free plan and paid tiers for advanced features and higher volumes."
+source_url: "https://onesignal.com/"
+category: "Push Notification Services"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "api"
+  - "mobile-push"
+  - "web-push"
+icon_url: "https://icons.duckduckgo.com/ip3/onesignal.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://onesignal.com/>\n"
+updated_at: "2026-11-21 01:45"

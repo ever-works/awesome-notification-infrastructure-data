@@ -1,0 +1,12 @@
+name: "Courier"
+description: "Multi-channel notification platform that helps product teams design, send, and track messages across email, SMS, push, and chat. Provides a visual designer and API with a free starter plan."
+source_url: "https://courier.com/"
+category: "Notification APIs"
+tags:
+  - "api"
+  - "freemium"
+  - "enterprise"
+  - "multi-channel"
+icon_url: "https://icons.duckduckgo.com/ip3/courier.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://courier.com/>\n"
+updated_at: "2026-11-21 01:45"

@@ -1,0 +1,12 @@
+name: "Pushy"
+description: "Reliable push notification service for iOS and Android with a REST API, delivery receipts, and scheduling. Offers a free developer plan and paid production plans based on device count."
+source_url: "https://pushy.me/"
+category: "Push Notification Services"
+tags:
+  - "api"
+  - "freemium"
+  - "free-plan"
+  - "mobile-push"
+icon_url: "https://icons.duckduckgo.com/ip3/pushy.me.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://pushy.me/>\n"
+updated_at: "2026-11-21 01:45"

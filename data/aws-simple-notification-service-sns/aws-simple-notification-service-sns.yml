@@ -1,0 +1,13 @@
+name: "AWS Simple Notification Service (SNS)"
+description: "Fully managed pub/sub messaging and mobile notification service for sending push notifications to mobile devices and distributed systems. Pay-per-use pricing within Amazon Web Services."
+source_url: "https://aws.amazon.com/sns"
+category: "Push Notification Services"
+tags:
+  - "api"
+  - "paid"
+  - "enterprise"
+  - "cloud"
+  - "pub-sub"
+icon_url: "https://icons.duckduckgo.com/ip3/aws.amazon.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://aws.amazon.com/sns>\n"
+updated_at: "2026-11-21 01:45"

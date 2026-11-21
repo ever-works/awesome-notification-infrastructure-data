@@ -1,0 +1,13 @@
+name: "MagicBell"
+description: "Embeddable in-app notification inbox and activity feed for SaaS products. Provides APIs, UI components, and notification preferences with a free plan for early-stage products."
+source_url: "https://magicbell.com/"
+category: "In-App Inbox & Feeds"
+tags:
+  - "api"
+  - "freemium"
+  - "free-plan"
+  - "in-app-inbox"
+  - "saas"
+icon_url: "https://icons.duckduckgo.com/ip3/magicbell.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://magicbell.com/>\n"
+updated_at: "2026-11-21 01:45"

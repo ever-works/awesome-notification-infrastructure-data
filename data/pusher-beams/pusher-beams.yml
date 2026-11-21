@@ -1,0 +1,12 @@
+name: "Pusher Beams"
+description: "Push notification service for iOS and Android with device management, segmentation, and real-time delivery. Includes a free sandbox and paid production plans based on monthly active devices."
+source_url: "https://pusher.com/beams"
+category: "Push Notification Services"
+tags:
+  - "api"
+  - "freemium"
+  - "mobile-push"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/pusher.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://pusher.com/beams>\n"
+updated_at: "2026-11-21 01:45"

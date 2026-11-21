@@ -1,0 +1,12 @@
+name: "PushEngage"
+description: "Web push notification platform for websites to re-engage visitors with automated and segmented campaigns. Includes a free plan for up to a limited number of subscribers."
+source_url: "https://pushengage.com/"
+category: "Web Push"
+tags:
+  - "api"
+  - "freemium"
+  - "free-plan"
+  - "web-push"
+icon_url: "https://icons.duckduckgo.com/ip3/pushengage.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://pushengage.com/>\n"
+updated_at: "2026-11-21 01:45"

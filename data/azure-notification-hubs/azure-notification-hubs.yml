@@ -1,0 +1,13 @@
+name: "Azure Notification Hubs"
+description: "Microsoft's scalable push notification engine for iOS, Android, Windows, and Kindle devices. Integrates with Azure and supports enterprise-scale deployments with tiered pricing."
+source_url: "https://azure.microsoft.com/en-us/services/notification-hubs"
+category: "Push Notification Services"
+tags:
+  - "api"
+  - "paid"
+  - "enterprise"
+  - "cloud"
+  - "mobile-push"
+icon_url: "https://icons.duckduckgo.com/ip3/azure.microsoft.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://azure.microsoft.com/en-us/services/notification-hubs>\n"
+updated_at: "2026-11-21 01:45"

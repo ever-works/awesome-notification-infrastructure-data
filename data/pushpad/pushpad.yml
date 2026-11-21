@@ -1,0 +1,12 @@
+name: "Pushpad"
+description: "Web push notification service for websites and web applications. Supports Chrome, Firefox, Safari, and Edge with a free plan for low volumes and paid plans for higher traffic."
+source_url: "https://pushpad.xyz/"
+category: "Web Push"
+tags:
+  - "api"
+  - "freemium"
+  - "free-plan"
+  - "web-push"
+icon_url: "https://icons.duckduckgo.com/ip3/pushpad.xyz.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://pushpad.xyz/>\n"
+updated_at: "2026-11-21 01:45"

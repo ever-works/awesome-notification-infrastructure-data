@@ -1,0 +1,12 @@
+- id: notification-apis
+  name: "Notification APIs"
+- id: push-notification-services
+  name: "Push Notification Services"
+- id: in-app-inbox-and-feeds
+  name: "In-App Inbox & Feeds"
+- id: open-source-notification-platforms
+  name: "Open-Source Notification Platforms"
+- id: self-hosted-push
+  name: "Self-Hosted Push"
+- id: web-push
+  name: "Web Push"

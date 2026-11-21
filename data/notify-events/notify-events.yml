@@ -1,0 +1,13 @@
+name: "Notify.Events"
+description: "Multi-channel notification aggregator that sends alerts from monitoring systems, servers, and apps to messengers and email. Offers a free plan and paid plans based on notification volume."
+source_url: "https://notify.events/"
+category: "Notification APIs"
+tags:
+  - "api"
+  - "freemium"
+  - "free-plan"
+  - "multi-channel"
+  - "monitoring"
+icon_url: "https://icons.duckduckgo.com/ip3/notify.events.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://notify.events/>\n"
+updated_at: "2026-11-21 01:45"
